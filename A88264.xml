@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truths victory over tyrants and tyranny. Being the tryall of that worthy assertor of his countreys freedoms, Lieftenant [sic] Colonell John Lilburne, defender of the ancient and known laws of England, against men and devills, whether in King, Parliament, Army, or Councell of state. Guild-hall London, Octob. 26. Freed in open court, from his unjust and illegall charge of high-treason, and cruell imprisonment in the Tower, by the unbyassed and just verdict of this jewry, whose names are here inserted; Miles Pettit, Holburn-Condu. Stephen Iles, Friday-street. Abraham Smith, Smithfield. John King Smithfield. Nicholas Murrin, Gosling-str. Thomas Daintie, Cheapside. Edmund Keysar, Holb-bridge Edward Perkins Smithfield. Ralph Packman, Smithfield. William Cummins, Cheap. Symon Weeden, Bredstr. Henry Tooley, Bredstreet. All good men and true.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88264</idno>
+            <idno type="STC">Wing L2191A</idno>
+            <idno type="STC">Thomason E579_12</idno>
+            <idno type="STC">ESTC R206182</idno>
+            <idno type="EEBO-CITATION">99865358</idno>
+            <idno type="PROQUEST">99865358</idno>
+            <idno type="VID">165477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165477)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E579[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truths victory over tyrants and tyranny. Being the tryall of that worthy assertor of his countreys freedoms, Lieftenant [sic] Colonell John Lilburne, defender of the ancient and known laws of England, against men and devills, whether in King, Parliament, Army, or Councell of state. Guild-hall London, Octob. 26. Freed in open court, from his unjust and illegall charge of high-treason, and cruell imprisonment in the Tower, by the unbyassed and just verdict of this jewry, whose names are here inserted; Miles Pettit, Holburn-Condu. Stephen Iles, Friday-street. Abraham Smith, Smithfield. John King Smithfield. Nicholas Murrin, Gosling-str. Thomas Daintie, Cheapside. Edmund Keysar, Holb-bridge Edward Perkins Smithfield. Ralph Packman, Smithfield. William Cummins, Cheap. Symon Weeden, Bredstr. Henry Tooley, Bredstreet. All good men and true.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the fall of tyranny,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165477:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <p>TRUTHS VICTORY Over TYRANTS <hi>AND</hi> TYRANNY.</p>
+            <p>Being the TRYALL of that Worthy Aſſertor of his Countreys <hi>Freedoms,</hi> Lieftenant Colonell JOHN LILBURNE, <hi>Defender of the Ancient and known Laws of</hi> England, <hi>againſt Men and Devills, whether in King, Parliament, Army, or</hi> Councell <hi>of</hi> State.</p>
+            <p>
+               <hi>Guild-hall London,</hi> Octob. 26.</p>
+            <p>Freed in open Court, from his unjuſt and Illegall <hi>Charge</hi> of <hi>High-Treaſon,</hi> and cruell Impriſonment in the <hi>Tower,</hi> by the unbyaſſed and juſt <hi>Verdict</hi> of this <hi>Jewry,</hi> whoſe Names are here inſerted;</p>
+            <list>
+               <item>
+                  <hi>Miles Pettit,</hi> Holburn-Condu.</item>
+               <item>
+                  <hi>Stephen Iles,</hi> Friday-ſtreet.</item>
+               <item>
+                  <hi>Abraham Smith,</hi> Smithfield.</item>
+               <item>
+                  <hi>John King</hi> Smithfield.</item>
+               <item>
+                  <hi>Nicholas Murrin,</hi> Goſling-ſtr.</item>
+               <item>
+                  <hi>Thomas Daintie,</hi> Cheapſide.</item>
+               <item>
+                  <hi>Edmund Keyſar,</hi> Holb-bridge</item>
+               <item>
+                  <hi>Edward Perkins</hi> Smithfield.</item>
+               <item>
+                  <hi>Ralph Packman,</hi> Smithfield.</item>
+               <item>
+                  <hi>William Cummins,</hi> Cheap.</item>
+               <item>
+                  <hi>Symon Weeden,</hi> Bredſtr.</item>
+               <item>
+                  <hi>Henry Tooley,</hi> Bredſtreet.</item>
+            </list>
+            <p>
+               <hi>All Good Men and true.</hi>
+            </p>
+            <p>Printed in the fall of <hi>Tyranny.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165477:2"/>
+            <!-- PDF PAGE 96 -->
+            <pb n="3" facs="tcp:165477:2"/>
+            <!-- PDF PAGE 96 -->
+            <head>TRUTHS VICTORY Over TYRANTS <hi>AND</hi> TYRANNY.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Should before this have given you the <hi>Tryall</hi> of honeſt <hi>John Lilburne</hi> in Print, by Order of the <hi>Houſe,</hi> but that it was ſo rediculous on their part, that they cannot endure ſo much as to hear of it; ſo farr as I can gather from Mr. <hi>Hinde,</hi> and others who took his <hi>Tryall</hi> in Short-writing, (beſides my ſelf) being both eye and ear witneſſes of their Proceedings againſt him in that Court.</p>
+            <p>His <hi>Charge</hi> was not one Jot leſſe then <hi>High-Treaſon</hi> (with a new found-diddle) for which that honeſt Liev. Colonell
+<pb n="4" facs="tcp:165477:3"/>
+               <!-- PDF PAGE 97 -->
+               <hi>John Lilburn,</hi> was a week before he came to <hi>Guild-hall</hi> condem<g ref="char:EOLhyphen"/>ned by their Tyrannicall Counſell of <hi>State,</hi> only they would venter at a legall Tryall, thinking with their bigge <hi>looks,</hi> and Guards of Souldiers to make honeſt <hi>John</hi> and the <hi>Iewrie</hi> fay after them; but it proved otherwiſe; The moſt materiall things that the <hi>forſworne Iudges</hi> did accuſe him of, was.</p>
+            <p>THat he the ſaid <hi>Iohn Lilburne</hi> did at or about <hi>Eaſter</hi> laſt, 1648. and divers times before and ſince, againſt the Peace of the <hi>Common-wealth</hi> of <hi>England,</hi> and the Teſtimony of his owne Conſcience (not ſetting God before his eyes) moſt per<g ref="char:EOLhyphen"/>fideouſly, wickedly, perniciouſly, and Treaſonably <hi>write,</hi> and cauſe to be Printed, Publiſhed and Divulged divers Papers and dangerous <hi>Books</hi> of very evill <hi>Conſequence,</hi> to the derogati<g ref="char:EOLhyphen"/>tion of divers <hi>Members</hi> of Parliament, and the ſubvertion of the Parliament and preſent Government by Slanders, Lyes, and falſe Suggeſtions cunningly by him inſinuated and ſpread a<g ref="char:EOLhyphen"/>mongſt the People, to take off, &amp; divide the People, and alie<g ref="char:EOLhyphen"/>nate their Affections from that juſt Authority which is ſet o<g ref="char:EOLhyphen"/>ver them for their good and ſafety, and to bring a low and mean eſteem upon the Perſons, and a ſuſpition and hatred up<g ref="char:EOLhyphen"/>on the courſes and intentions of the moſt faithful Members of the Peoples Repreſentative in Parliament, and of other Mini<g ref="char:EOLhyphen"/>ſters of State, that are moſt conſcientious in diſcharging their truſt, &amp; are therefore become the utmoſt object of his wretch<g ref="char:EOLhyphen"/>ed ſpleen and malice.</p>
+            <p>Here they began to read over his Books, which pleaſed the People as well, as if they had acted before them one of <hi>Ben Iohnſons</hi> Playes, for their excellency, I ſhall give you the names of them, deſiring all well affected People to buy them; becauſe they are filled with <hi>Law</hi> and <hi>Truth.</hi>
+            </p>
+            <list>
+               <item>1. His two <hi>Pictures of the Counſell</hi> of <hi>State,</hi> in which Books you may ſee them, as in a glaſſe, ſitting together to cheat the Common-wealth, like a pack of Jugling Knaves.</item>
+               <item>2. His DISCOURSE <hi>with Mr. Peters,</hi> in which <hi>Peters</hi> told him, That there was no <hi>Law;</hi> whereupon honeſt <hi>Lilburn,</hi> re<g ref="char:EOLhyphen"/>plyd, That he &amp; his maſters were then a company of Roagues, or Fools, to fight for the <hi>Laws,</hi> when there were none.</item>
+               <pb n="5" facs="tcp:165477:3"/>
+               <!-- PDF PAGE 97 -->
+               <item>3. His INPEACHMENT of High Treaſon againſt CROM<g ref="char:EOLhyphen"/>WEL and IRETON, in which there is an excellent <hi>Epiſtle</hi> di<g ref="char:EOLhyphen"/>rected to <hi>William Lenthall</hi> Speaker, to thoſe Knights Gentle<g ref="char:EOLhyphen"/>men and Burgeſſes left by Colonel <hi>Thomas Pryde</hi> 
+                  <abbr>Eſq</abbr> (late Dray-man in <hi>Smithfield</hi>) in his <hi>purge</hi> to the Houſe of Com<g ref="char:EOLhyphen"/>mons, who with the Aſſiſtance of the <hi>Army</hi> (ſaith JOHN) are ſetting up their own Ambition and <hi>Tyrannicall Wills.</hi>
+               </item>
+               <item>4. A HUE and CRY after Sir <hi>Arthur Haſlerigge</hi> Governour of <hi>New-caſtle,</hi> and <hi>Tyrant</hi> of the North.</item>
+               <item>5. His DISCOURSE with <hi>Prideaux</hi> ſome few dayes before his <hi>Tryall,</hi> in which he plainly made it appear, That this Parlia<g ref="char:EOLhyphen"/>ment was <hi>Null</hi> and <hi>VOID;</hi> Firſt by the death of the KING, which was by them Illegally acted; Secondly by their owne Arguments.</item>
+            </list>
+            <p>For at that time when the Houſe was Affronted by ſome diſorderly <hi>Apprentices</hi> for one afternoon, the next day (like a company of Cowards,) ſome Thirty or thereabouts, (being but a ſmall part of the Houſe,) fled to the <hi>Army</hi> about <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> and would not owne them at <hi>Weſtminſter</hi> as a Houſe, as they Sate, though Free and without any Force; but wrote to them by the Title of <hi>Knights and Gentlemen Sitting at Weſtminſter:</hi> And when the <hi>Speaker</hi> with his Crew was again put into the Houſe, he ſaid, Thoſe which had Acted in their abſence was no Parliament; and that all their Acts and Orders were Null and Void: then ſurely ſaith he, this is none; for that the Major Part was by Force pulled out of the Houſe, and a Guard ſet to keep them out, and to awe them who ſate to Act according to the Humor of the Grandees; which <hi>Prideaux</hi> could not de<g ref="char:EOLhyphen"/>ny: The Particulers out of theſe <hi>Papers,</hi> with malitious agra<g ref="char:EOLhyphen"/>vations of jeering <hi>Iarman,</hi> ſneaking <hi>Keeble,</hi> and the puppit <hi>Prideaux;</hi> they drew up their <hi>Indictment,</hi> which laſted a whole day the Reading; which when they had ended, they Required honeſt JOHN to Anſwer them preſently: He ſaid unto them,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>I Deſire time; for have you been this Six Months knocking your heads about this; and muſt I who am here upon my Life, give you an Anſwer at this inſtant; I pray you hold, and
+<pb n="6" facs="tcp:165477:4"/>
+                           <!-- PDF PAGE 98 -->make not too much haſte to hang True Folkes, you know not how ſoon it may be your owne <hi>Turnes,</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Then <hi>Ieering Iarman</hi> bawl'd out, and ſaid, with vehemency of Malice,</p>
+            <q>Maſter <hi>Lilburn,</hi> either Anſwer now, or for ever hold your tongue.</q>
+            <p>But then that Innocent Gentleman, Liev. Colonel JOHN LILBURNE deſired, That if he might not be allowed two dayes time to anſwer their tedious CHARGE, that they would grant him but two houres.</p>
+            <p>But the <hi>States</hi> three <hi>Beagles</hi> yelped out with full mouth, No, no, no, not an inch of Time.</p>
+            <p>So ſoon as they had ſaid this, a Scaffold in the Hall fell down, ſome (being hurt) crying out, which ſo amazed, and terrifyed the unjuſt Judges, that for almoſt the ſpace of an houre, they did nothing but ſtare one upon another, in which time Mr. <hi>Lilburne</hi> did ſo prepare himſelf for them that when he came to ſpeake, he did confute them with good <hi>Law,</hi> and honeſt Reaſon (telling them, that they had prated like Fools, and knew no more LAW then ſo many <hi>Geeſe</hi>) whereupon the <hi>Lubbers</hi> of the <hi>Keepers</hi> of ENGLANDS LIBER<g ref="char:EOLhyphen"/>TIES had not a ſingle Sillable to utter in the defence of themſelves or MASTERS, but left it to the <hi>Iewry,</hi> with as many <hi>Items</hi> and <hi>Nodds</hi> as they durſt give them, to fol<g ref="char:EOLhyphen"/>low their Wills.</p>
+            <p>But the honeſt-hearted JEWRY-MEN [being all unbyaſ<g ref="char:EOLhyphen"/>ed men, and ſuch as had no dependency on them by OF<g ref="char:EOLhyphen"/>FICE or the like] did as juſtly as honeſtly and gallantly diſcharge their Conſciences; not fearing their great looks, nor new invented ACTS; but in their <hi>Verdict</hi> did unanimouſ<g ref="char:EOLhyphen"/>ly declare,</p>
+            <q>THAT THE PRISONER WAS NOT GUILTY OF HIGH-TREASON.</q>
+            <p>At which time the People (for Joy) gave a great ſhout, that made <hi>Guild-Hall</hi> to ring again, which made his unjuſt
+<pb n="7" facs="tcp:165477:4"/>
+               <!-- PDF PAGE 98 -->Judges to pull in their hornes, ſlip off their Gowns, and be<g ref="char:EOLhyphen"/>take themſelves to run, as if they had been ſo many <hi>Gadarines,</hi> for fear the PEOPLE ſhould pull them off their ſeats of JUSTICE by the eares; and in their Paſſage home, were ſcoff'd mock'd and derided by Men, Women and Children.</p>
+            <p>Then was that worthy Champion, and Patriot of his COUNTRY, Lievtenant Colonel JOHN LILBURNE attended back to the TOWER, not onely with the Joy and acclamation of his friends, but of all ſorts of PEOPLE; for his unexpected delivery from the cruel pawes of his mer<g ref="char:EOLhyphen"/>cileſſe and fell Enemies, who made no other account but to ſacrifice to their unlimmited, Tyrannical, lawleſſe and un<g ref="char:EOLhyphen"/>bounded <hi>Wills</hi> that worthy and gallant Suffere for his Coun<g ref="char:EOLhyphen"/>treys FREEDOMS, who had been ſo long, and ſo cruelly handled by them, and illegally kept their Priſoner without any juſt Cauſe, and had ſo remained all his Life time, had it not been as the common Proverb ſaith; FOR SHAME OF THE WORLD, AND SPEECH OF PEOPLE.</p>
+            <p>There was at night Ringing of Bells, and Bonfires in many places of the City of <hi>LONDON,</hi> and a gennerall joy in his very Enemies, ſo odious are the now preſent Juncto ſitting at <hi>Weſtminſter,</hi> that al the Tyrants that ever exerciz'd Power here were not halfe ſo hatefull to the PEOPLE, or halfe ſo bur<g ref="char:EOLhyphen"/>thenſome to their ſhoulders, as theſe perjnr'd Hypocriticall <hi>Changlings</hi> are to the over-ridden People of <hi>England,</hi> as ap<g ref="char:EOLhyphen"/>pears by their love to thoſe that oppoſe them.</p>
+            <p>And that the ſordid baſeneſſe of both them and their Crea<g ref="char:EOLhyphen"/>tures, may more evidently appear (next the Names and abodes of the <hi>Ieury</hi> that ſtood ſo firmly to the Law, and their fellow-Commoner) I will give you the Copy of his Diſcharge, ſigned by <hi>Bradſhaws</hi> own hand.</p>
+            <list>
+               <head>The Names of the Jury-men.</head>
+               <item>
+                  <hi>Miles Pettit,</hi> Holburn-Condu.</item>
+               <item>
+                  <hi>Stephen Iles,</hi> Friday-ſtreet.</item>
+               <item>
+                  <hi>Abraham Smith,</hi> Smithfield.</item>
+               <item>
+                  <hi>John King</hi> Smithfield.</item>
+               <item>
+                  <hi>Nicholas Murrin,</hi> Goſling-ſtr.</item>
+               <item>
+                  <hi>Thomas Daintie,</hi> Cheapſide.</item>
+               <item>
+                  <hi>Edmund Keyſar,</hi> Holb-bridge</item>
+               <item>
+                  <hi>Edward Perkins</hi> Smithfield.</item>
+               <item>
+                  <hi>Ralph Packman,</hi> Smithfield.</item>
+               <item>
+                  <hi>William Cummins,</hi> Cheap.</item>
+               <item>
+                  <hi>Symon Weeden,</hi> Bredſtr.</item>
+               <item>
+                  <hi>Henry Tooley,</hi> Bredſtreet.</item>
+            </list>
+            <p>
+               <hi>All Good Men and true.</hi>
+            </p>
+            <div type="warrant">
+               <pb n="8" facs="tcp:165477:5"/>
+               <!-- PDF PAGE 99 -->
+               <head>A Copy of a Warrant, ſent from the Councel of State, for the Releaſement of Lievtenant Colonel <hi>Iohn Lilburne</hi> from his Impriſonment in the TOWER.</head>
+               <p>
+                  <hi>WHereas Leivtenant Colonel</hi> John Lilburne <hi>hath been Com<g ref="char:EOLhyphen"/>mitted Priſoner to the Tower upon Suſpition of High Trea<g ref="char:EOLhyphen"/>ſon in Order to his Tryal at Law; which Tryal he hath received, and is thereby acquitted.</hi>
+               </p>
+               <p>
+                  <hi>Theſe are therefore to will and require you, upon ſight hereof, to Diſcharg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and ſet at Liberty the ſaid Lievetenant Colonel</hi> John Lilburne <hi>from his Impriſonment, for which this ſhall be your ſuffi<g ref="char:EOLhyphen"/>cient Warrant.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Given at the</hi> Councel of State <hi>at</hi> White-hall <date>
+                        <hi>this Eight of</hi> November. 1649.</date>
+                  </dateline>
+                  <signed>To the Lievtenant of the <hi>Tower,</hi> or his <hi>Deputy. Signed in the Name, and by the Order of the</hi> Councel of State, <hi>appointed by Authority of Parliament.</hi> John Bradſhaw, <hi>Preſident.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <p>Mr <hi>Walwyn,</hi> Mr <hi>Prince,</hi> and Mr <hi>Overton,</hi> muſt either lie in Priſon till they were ſtarved, or take the new <hi>Engagement;</hi> and of two <hi>Evils</hi> they chooſe the leſs; and have ſet their <hi>Hands</hi> to the new <hi>Engagement,</hi> which they promiſe to keep as faithfully as <hi>Bradſhaw, Vain,</hi> or <hi>Prideaux</hi> have done the <hi>Covenant.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
